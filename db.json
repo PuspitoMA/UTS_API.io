@@ -27,21 +27,25 @@
   ],
   "feature1":
   {
+      "id": 1,
       "title": "One-Stop Solution",
       "body": "We do Market, Competitor, Positioning Research, Brand Identity Development, Annual Report, Company Profile/Sales Kit Design, Packaging Design. Whatever your creative design needs are, we can help you grow your business."
     },
   "festure2":
     {
+      "id": 1,
       "title": "We Care About Your Business",
       "body": "Here in Momentum, we are obsessed about making your brand successful, because your success is our success, too. When you decide to work with us, our team of experts will make sure that you get the best design experience you will ever have."
     },
   "feature3":
     {
+      "id": 1,
       "title": "Highly Committed Resources",
       "body": "Other design firms take in as many clients as they can; this usually causes lower service quality. This is why Momentum limits ourselves to 5 clients per month in order to ensure clients' satisfaction. We choose to work only with with businesses that we can actually help."
     },
   "feature4":
     {
+      "id": 1,
       "title": "Melinda Tan - General Manager (MediFIT)",
       "body": "Konsep Branding yang diangkat Momentum sangat bagus, unik, dan nggak asal bikin. Segala keputusan yang mereka ambil berdasarkan market research yang mendalam. If you're looking to brand your company and/or products, go for Momentum!."
     }
